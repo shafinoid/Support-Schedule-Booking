@@ -1,0 +1,66 @@
+.sb-container .sb-booking{
+    align-items: center;
+    width: 800px;
+    max-height: 670px;
+    background: rgba(46, 136, 134, 0.15);
+    border: 2px solid #EF6553;
+    box-sizing: border-box;
+    border-radius: 17px;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-bottom: 50px;
+    padding: 40px;
+}
+
+.sb-container .sb-booking .sb-booking-form .sb-booking-form-field{
+    text-align: center;
+}
+
+.sb-container .sb-booking .sb-booking-form .sb-booking-form-field .sb-booking-form-field-1{
+    text-align: center;
+    width: 600px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 2px solid #2E8886;
+    border-radius: 9px;
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+
+.sb-container .sb-booking .sb-booking-form .sb-booking-form-field .sb-booking-form-field-1:hover{
+    border: 2px solid #EF6553;
+}
+
+.sb-container .sb-booking .sb-booking-form .sb-booking-form-field .sb-booking-form-field-2{
+    text-align: center;
+    width: 300px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 2px solid #2E8886;
+    border-radius: 9px;
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+
+.sb-container .sb-booking .sb-booking-form .sb-booking-form-field .sb-booking-form-field-2:hover{
+    border: 2px solid #EF6553;
+}
+
+.sb-container .sb-booking .sb-booking-form-btn{
+    text-align: center;
+    padding: 10px;
+    width: 350px;
+    height: 50px;
+    background: #2E8886;
+    border: 2px solid #EF6553;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 180px;
+    color: #FFFFFF;
+}
+
+.sb-container .sb-booking .sb-booking-form-btn:hover{
+    background: #EF6553;
+    border: 2px solid #2E8886 ;
+}
