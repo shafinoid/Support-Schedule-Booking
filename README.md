@@ -1,2 +1,2 @@
 # schedule-booking
-HTML and Sass Schedule-Booking template
+HTML and CSS Schedule-Booking template
